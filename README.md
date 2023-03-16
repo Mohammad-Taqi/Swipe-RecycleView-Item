@@ -4,8 +4,8 @@
 
 Hi,
 Here I try to implement the partial and full swipe for RecycleView Item.<br /><br />
-![swipe demo](https://user-images.githubusercontent.com/60095441/213108685-a35d36fe-01d6-4d63-b923-c1fd9c914de1.gif)
 
+<img src="https://user-images.githubusercontent.com/60095441/213108685-a35d36fe-01d6-4d63-b923-c1fd9c914de1.gif" width="250" height="250"/>
 
 ## Resource I used
 I refer this youtube video and modified it.
